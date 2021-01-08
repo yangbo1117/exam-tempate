@@ -1,1 +1,1 @@
-# exam-tempate
+# exam-template
